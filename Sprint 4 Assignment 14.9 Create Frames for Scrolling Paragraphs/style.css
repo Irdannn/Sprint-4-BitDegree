@@ -1,0 +1,23 @@
+.content-box1 {
+    background-color: #ffe5d9;
+    height: 200px;
+    width: 200px;
+    border: 1px solid #000;
+    overflow: scroll;
+  }
+  
+  .content-box2 {
+    background-color: #e8e8e4;
+    height: 200px;
+    width: 200px;
+    border: 1px solid #000;
+    overflow-y: scroll;
+  }
+  
+  .content-box3 {
+    background-color: #fec5bb;
+    height: 100px;
+    width: 50px;
+    border: 1px solid #000;
+    overflow-x: scroll;
+  }

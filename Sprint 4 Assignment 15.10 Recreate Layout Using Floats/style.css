@@ -1,0 +1,35 @@
+header {
+    background-color: #a5a58d;
+    text-align: center;
+    padding: 30px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  h1 {
+    color: #2b2d42;
+    text-transform: uppercase;
+    letter-spacing: 0.5rem;
+  }
+  .container {
+    padding: 150px 50px;
+  }
+  h2 {
+    font-size: 30px;
+  }
+  p {
+    font-size: 24px;
+    line-height: 1.5;
+  }
+  .section {
+    margin-bottom: 60px;
+  }
+  hr {
+    width: 30%;
+  }
+  .float-left {
+    float: left;
+  }
+  .float-right {
+    float: right;
+  }

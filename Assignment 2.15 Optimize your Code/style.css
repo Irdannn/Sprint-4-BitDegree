@@ -1,0 +1,35 @@
+h1{
+    color: green; 
+    font-size: 24px;
+    }
+  span{
+    font-weight: 700;
+  }
+   #first-div{
+     width: 1000px; 
+     height: 200px; 
+     background-color: purple;
+   }
+   #middle-div{
+     width: 200px; 
+     height: 200px; 
+     background-color: red; 
+     border-radius: 10px;
+   }
+   #last-div{
+     width: 200px; 
+     height: 200px; 
+     background-color: red; 
+     border-width: 10px; border-style: solid; 
+     border-color: royalblue
+   }
+   .parag-one{
+     color: white;
+   }
+   .parag-two{
+     color: orange;
+   }
+   .parag-three{
+     color: white;
+   }
+    /*write your code here*/

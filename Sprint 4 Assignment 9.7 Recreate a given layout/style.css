@@ -1,0 +1,46 @@
+.container {
+    background-color: #caf0f8;
+    width: 100%;
+    border: 1px solid black;
+    /* Write your code here*/
+  }
+  .box0 {
+    width: inherit;
+    height: 100px;
+    background-color: #ade8f4;
+    line-height: 100px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    outline: 1px dashed #03045e;
+    /* Write your code here*/
+  }
+  .box1 {
+    width: 75%;
+    height: 300px;
+    background-color: #48cae4;
+    line-height: 300px;
+    display: flex;
+    justify-content: center;
+    margin: 25px, 200px;
+    padding: 10px;
+    border: 10px dashed #03045e;
+    /* Write your code here*/
+  }
+  .box2 {
+    height: 200px;
+    text-align: center;
+    margin-bottom: 25px;
+    padding: 10px;
+    border: 1px dotted black; 
+    /* Write your code here*/
+  }
+  .item {
+    width: 200px;
+    height: 200px;
+    background-color: #0077b6;
+    display: inline-block;
+    margin: 5px;
+    outline: 2px solid #03045e;
+    /* Write your code here*/
+  }

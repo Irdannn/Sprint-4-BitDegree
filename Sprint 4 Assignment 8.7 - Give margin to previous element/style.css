@@ -1,0 +1,39 @@
+h5 {
+    text-align: center;
+  }
+  
+  .golden-box {
+    background-color: #b8860b;
+    width: 50%;
+    padding: 50px;
+    border: 1px solid black;
+    margin: 45px;
+    /*write your code here*/
+  }
+  
+  .orange-box {
+    background-color: #ff8c00;
+    width: 50%;
+    padding: 30px 15px;
+    border: 10px dotted pink;
+    margin: 100px, 50px;
+    /*write your code here*/
+  }
+  
+  .yellow-box {
+    background-color: #ffd700;
+    width: 50%;
+    padding: 25px 75px 50px;
+    border: 3px dashed orange;
+    margin: 75px, 100px, 225px;
+    /*write your code here*/
+  }
+  
+  .green-box {
+    background-color: #228b22;
+    width: 50%;
+    padding: 150px 200px 300px 250px;
+    border: 15px groove red;
+    margin: 30px, 20px, 50px, 150px;
+    /*write your code here*/
+  }

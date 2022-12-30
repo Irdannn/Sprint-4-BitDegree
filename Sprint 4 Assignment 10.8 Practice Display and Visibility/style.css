@@ -1,0 +1,21 @@
+.links {
+    display: block;
+    margin-bottom: 50px;
+  }
+  .block1 {
+    background-color: #fec89a;
+  }
+  .block2 {
+    background-color: #ffd7ba;
+  }
+  .block3 {
+    background-color: #ffe5d9;
+  }
+  .block1,
+  .block2,
+  .block3 {
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    /*write your code here: */
+  }

@@ -1,0 +1,25 @@
+body {
+    background-color: wheat;
+}
+.modal{
+    border: 1px solid white;
+    width: 400px;
+    height: 400px;
+    background-color: lightblue;
+    margin: auto;
+    border-radius: 20px;
+}
+.close_button {
+    border: 1px solid black;
+    background-color: black;
+    width: 130px;
+    height: 30px;
+    margin: auto;
+    border-radius: 10px;
+    margin-top: 350px;
+}
+#click {
+    color: white;
+    margin-top: 5px;
+    text-align: center;
+}

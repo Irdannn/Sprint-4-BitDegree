@@ -1,0 +1,15 @@
+.my-btn {
+    border: 2px solid black;
+    border-radius: 5%;
+    padding: 20px;
+    margin: 50px;
+    display: inline-block;
+    text-decoration: none;
+}
+.my-btn:hover{
+  background-color: #555555;
+  color: white;
+  font-size: 36px;
+  text-transform: uppercase;
+  text-decoration: underline;
+}
